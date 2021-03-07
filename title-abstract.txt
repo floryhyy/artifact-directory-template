@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Opioid Overdose Prevalence Analysis
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Substance abuse is not only a significant health hazard of epidemic proportions, it is also a large marketplace where addictive substances, abuse and co-abuse patterns, supply and demand patterns, Governmental regulations enforcement -- all play a role. The interplay of these factors change significantly when exceptional events like the COVID-19 pandemic strikes. The proposed Capstone research will develop a knowledge graph based approach to compare pre-pandemic and in-pandemic dynamics. It will combine Information Integration, Natural Language Processing and Machine Learning techniques to automatically construct a Knowledge Graph by fusing information from Governmental, News and Social Media data. 
