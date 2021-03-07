@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
+    "this-repository": "https://github.com/floryhyy/artifact-directory-template.git",
+    "project-repository": "https://github.com/floryhyy/Opioid-Overdose-Prevalence.git",
+    "dockerhub-repository": "floryhyy/dsc180a:latest",
     "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
     "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
 }
