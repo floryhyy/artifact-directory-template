@@ -2,6 +2,6 @@
     "this-repository": "https://github.com/floryhyy/artifact-directory-template.git",
     "project-repository": "https://github.com/floryhyy/Opioid-Overdose-Prevalence.git",
     "dockerhub-repository": "floryhyy/dsc180a:latest",
-    "project-website-url": "http://132.249.238.234:8081/#/",
+    "project-website-url": "http://76.91.17.68:8080/#/reddit",
     "project-website-code": "https://github.com/smartypantsgc9/website_dsc180a.git"
 }
